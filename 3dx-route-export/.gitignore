@@ -1,0 +1,7 @@
+﻿.venv/
+.env
+.auth/
+debug/
+output/
+downloads/
+__pycache__/
